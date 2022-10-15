@@ -1,0 +1,20 @@
+Un computer, in italiano anche noto come elaboratore, calcolatore o, più raramente, computiere o computatore,
+ è una macchina automatizzata programmabile in grado di eseguire sia complessi calcoli matematici (calcolatore)
+ sia altri tipi di elaborazioni dati (elaboratore). Concepito come una macchina per automatizzare alcune capacità
+  della mente umana, come ad esempio il calcolo e la capacità di memorizzazione potenziandone la portata e
+   applicandole alla soluzione di particolari problemi scientifici e ingegneristici, solo a partire dalla
+    seconda metà del XX secolo, evolve in macchina in grado di eseguire le elaborazioni dati più varie. Ci si
+     riferisce comunemente al computer come ad un dispositivo elettronico e digitale, programmabile a scopo
+      generico, costruito secondo il modello teorico-computazionale della cosiddetta macchina di Turing e la
+       cosiddetta architettura di von Neumann, anche se oggi tuttavia il termine assume il significato più generico
+        di sistema elettronico di elaborazione programmabile e non programmabile, includendo dunque una vasta gamma
+         di tipologie di dispositivi: sebbene i computer programmabili a scopo generico siano oggi i più diffusi,
+          esistono infatti in specifici ambiti di applicazione modelli di computer dedicati a vari campi e settori come
+           automazione industriale, domotica, computer grafica.
+Nel corso della storia, l'implementazione tecnologica di questa macchina si è modificata profondamente sia nei
+ meccanismi di funzionamento (meccanici, elettromeccanici ed elettronici), sia nelle modalità di rappresentazione
+  dell'informazione (analogica e digitale) sia in altre caratteristiche (architettura interna, programmabilità, ecc.).
+   In questa forma e al pari della televisione, esso rappresenta il mezzo tecnologico simbolo che ha maggiormente
+    modificato le abitudini umane dopo la seconda guerra mondiale: la sua invenzione ha contribuito alla nascita
+     e allo sviluppo dell'informatica moderna, che ha segnato l'avvento della cosiddetta terza rivoluzione industriale
+      e della società dell'informazione.

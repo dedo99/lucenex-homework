@@ -1,0 +1,7 @@
+La cybersecurity è la prassi di proteggere i sistemi, le reti e i programmi dagli attacchi
+ digitali. Questi attacchi informatici sono solitamente finalizzati all'accesso, alla trasformazione
+ o alla distruzione di informazioni sensibili, nonché all'estorsione di denaro agli utenti o
+ all'interruzione dei normali processi aziendali.
+
+ L'implementazione di misure di cybersecurity efficaci è particolarmente impegnativa oggi perché
+ ci sono piùdispositivi che persone e gli hacker stanno diventando sempre più innovativi.
