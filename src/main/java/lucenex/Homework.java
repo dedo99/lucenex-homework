@@ -30,9 +30,6 @@ import java.util.Map;
 public class Homework {
 
     public static void write_index(Map<String, String> map_documents) throws IOException {
-        //acquisizione istante di tempo iniziale
-        long startTime = System.nanoTime();
-
         Path path = Paths.get("howework_index/idx1");
         Directory directory = FSDirectory.open(path);
 
@@ -67,6 +64,9 @@ public class Homework {
 
         //delete all documents stored before
         writer.deleteAll();
+
+        //acquisizione istante di tempo iniziale
+        long startTime = System.nanoTime();
 
         //create a documents to add to index
         for (String key : map_documents.keySet()){
