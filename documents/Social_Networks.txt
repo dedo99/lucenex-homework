@@ -1,0 +1,10 @@
+Un social network (dall'inglese social networking service o social networking site, lett. "servizio di rete
+ sociale" o "sito di rete sociale") è, nel web 2.0, un servizio Internet per la gestione dei rapporti e delle
+  reti sociali, tipicamente fruibile mediante browser o applicazioni mobili appoggiandosi sulla relativa piattaforma,
+   che consente la comunicazione e condivisione per mezzi testuali e multimediali. I servizi di questo tipo, nati come
+    comunità alla fine degli anni novanta e divenuti enormemente popolari nel decennio successivo, permettono agli utenti
+     di creare un proprio profilo, organizzare una lista di contatti, pubblicare un proprio flusso di aggiornamenti e di
+      accedere a quello altrui. I servizi sono distinguibili in base alla tipologia di relazioni cui sono orientati
+       (per esempio quelle amicali, lavorative o pubbliche) o anche a seconda del formato delle comunicazioni che prevedono
+        (come testi brevi, immagini o musica). Il loro utilizzo è spesso offerto gratuitamente, dato che i fornitori sono
+         remunerati dagli inserzionisti pubblicitari online.

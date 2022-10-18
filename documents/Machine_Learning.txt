@@ -1,0 +1,10 @@
+Il Machine Learning (ML) è un sottoinsieme dell'intelligenza artificiale (AI) che si occupa di creare sistemi
+ che apprendono o migliorano le performance in base ai dati che utilizzano. Intelligenza artificiale è un termine
+  generico e si riferisce a sistemi o macchine che imitano l'intelligenza umana. I termini machine learning e AI
+   vengono spesso utilizzati insieme e in modo interscambiabile, ma non hanno lo stesso significato. Un'importante
+    distinzione è che sebbene tutto ciò che riguarda il machine learning rientra nell'intelligenza artificiale,
+     l'intelligenza artificiale non include solo il machine learning. Attualmente, il machine learning è utilizzato
+      ovunque. Quando interagiamo con le banche, acquistiamo online o utilizziamo i social media, vengono utilizzati
+       gli algoritmi di machine learning per rendere la nostra esperienza efficiente, facile e sicura. Il Machine
+        Learning e la tecnologia associata si stanno sviluppando rapidamente e noi abbiamo appena iniziato a scoprire
+         le loro funzionalità.

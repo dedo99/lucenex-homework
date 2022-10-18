@@ -30,6 +30,9 @@ import java.util.Map;
 public class Homework {
 
     public static void write_index(Map<String, String> map_documents) throws IOException {
+        //acquisizione istante di tempo iniziale
+        long startTime = System.nanoTime();
+
         Path path = Paths.get("howework_index/idx1");
         Directory directory = FSDirectory.open(path);
 
@@ -76,6 +79,14 @@ public class Homework {
         //persisto i dati sull'indice
         writer.commit();
         writer.close();
+
+        //acquisizione istante di tempo finale
+        long endTime = System.nanoTime();
+        // ottiene la differenza tra i due valori di tempo
+        long timeElapsed = endTime - startTime;
+        //stampe
+        System.out.println("Numero documenti indicizati: " + map_documents.size());
+        System.out.println("Execution time in milliseconds: " + timeElapsed / 1000000);
     }
 
 

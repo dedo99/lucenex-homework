@@ -1,0 +1,6 @@
+I data center moderni sono decisamente diversi da quelli precedenti. L'infrastruttura si è spostata dai tradizionali
+ server fisici on-premises alle reti virtuali in grado di supportare applicazioni e carichi di lavoro su più
+  infrastrutture fisiche e in un ambiente multicloud. Oggi i dati si trovano e devono essere connessi su più data center,
+   alla periferia e in cloud pubblici e privati. Il data center deve poter comunicare con più sedi, all'interno
+    dell'azienda o nel cloud. Persino il cloud pubblico può essere visto come un insieme di data center. Quando le
+     applicazioni sono ospitate nel cloud, usano le risorse del data center fornite dal provider di servizi cloud.

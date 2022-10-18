@@ -103,7 +103,7 @@ public class HomeworkTest {
     //Here write others tests
 
 
-    
+
     public IndexSearcher setting_path_query() throws IOException {
         Path path = Paths.get("howework_index/idx1");
         Directory directory = FSDirectory.open(path);

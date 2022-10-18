@@ -1,0 +1,8 @@
+La computer grafica si occupa di generare immagini con l'ausilio di computer. Oggi, la computer grafica
+ è una tecnologia di base nella fotografia digitale, nei film, nei videogiochi, nei display di telefoni
+  cellulari e computer e in molte applicazioni specializzate. È stata sviluppata una grande quantità di
+   hardware e software specializzati, con i display della maggior parte dei dispositivi guidati da hardware
+    di computer grafica . Si tratta di un'area dell'informatica vasta e di recente sviluppo. La frase è stata
+     coniata nel 1960 dai ricercatori di computer grafica Verne Hudson e William Fetter della Boeing. È spesso
+      abbreviato in CG, o tipicamente nel contesto del film come immagini generate al computer (CGI). Gli aspetti
+       non artistici della computer grafica sono oggetto diricerca informatica .

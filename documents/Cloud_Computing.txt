@@ -1,0 +1,9 @@
+Il cloud computing indica, in informatica, un paradigma di erogazione di servizi offerti su richiesta da un fornitore
+ a un cliente finale attraverso la rete internet (come l'archiviazione, l'elaborazione o la trasmissione dati), a partire
+  da un insieme di risorse preesistenti, configurabili e disponibili in remoto sotto forma di architettura distribuita.
+   Le risorse non vengono pienamente configurate e messe in opera dal fornitore appositamente per l'utente, ma gli sono
+    assegnate, rapidamente e convenientemente, grazie a procedure automatizzate, a partire da un insieme di risorse
+     condivise con altri utenti lasciando all'utente parte dell'onere della configurazione. Quando l'utente rilascia
+      la risorsa, essa viene similmente riconfigurata nello stato iniziale e rimessa a disposizione nell'insieme condiviso
+       delle risorse, con altrettanta velocità ed economia per il fornitore.
+

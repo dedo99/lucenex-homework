@@ -1,0 +1,9 @@
+Nel mondo moderno, è difficile pensare a un settore che non sia stato rivoluzionato dalla scienza
+ dei dati. Molti magari non capiscono i dettagli intricati di questa disciplina, ma ne sanno
+  abbastanza per capire che la scienza dei dati è un campo in forte crescita. Tutti noi troviamo
+   sconti personalizzati nella nostra casella di posta elettronica, facciamo domande a Siri o facciamo
+    affidamento sulla nostra banca per individuare e contenere potenziali attività fraudolente.Mentre noi
+     ci godiamo i frutti di chi opera nel campo della data science, altre persone lavorano assiduamente
+      dietro le quinte. Questi addetti sono incaricati di creare le pipeline di dati e i data warehouse
+       che consentono ai data scientist di scrivere e ottimizzare algoritmi per migliorare la nostra vita quotidiana.
+        Chi sono queste figure? Sono gli "ingegneri dei dati", o data engineer.
