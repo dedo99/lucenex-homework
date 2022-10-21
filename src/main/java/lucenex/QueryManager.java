@@ -31,24 +31,33 @@ public class QueryManager {
         System.out.print("Insert your query here> ");
         String words = scan.nextLine();
 
-        //controllo terminazione programma
-        if(section.equals("q") || words.equals("q")){
-            return false;
-        }
+        if (section.equals("name") || section.equals("content") || section.equals("q")){
+            //controllo terminazione programma
+            if(section.equals("q") || words.equals("q")){
+                return false;
+            }
 
-        Query query;
-        //controllo se è una Phrasequery
-        if(words.startsWith("'") && words.endsWith("'")){
-            query = execute_phrasequery(section, words);
-        }//altrimenti viene effettuata una query parser
+            Query query;
+            //controllo se è una Phrasequery
+            if(words.startsWith("'") && words.endsWith("'")){
+                query = execute_phrasequery(section, words);
+            }//altrimenti viene effettuata una query parser
+            else {
+                query = execute_queryparser(section, words);
+            }
+
+            //esecuzione query
+            runQuery(query);
+            return true;
+        }
         else {
-            query = execute_queryparser(section, words);
+            System.out.println("------------------------------------------");
+            System.out.println("----------Error Section! Repeat!----------");
+            System.out.println("------------------------------------------");
+            return true;
         }
-
-        //esecuzione query
-        runQuery(query);
-        return true;
     }
+
 
     private static Query execute_queryparser(String section, String words) throws ParseException {
         QueryParser queryParser = new QueryParser(section, new

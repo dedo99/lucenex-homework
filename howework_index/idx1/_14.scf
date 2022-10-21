@@ -1,4 +1,4 @@
-cfs entry for: _z.fld
+cfs entry for: _14.fld
 doc 0
   field 0
     name name
@@ -91,7 +91,7 @@ doc 9
     value Nel mondo moderno, è difficile pensare a un settore che non sia stato rivoluzionato dalla scienza dei dati. Molti magari non capiscono i dettagli intricati di questa disciplina, ma ne sanno  abbastanza per capire che la scienza dei dati è un campo in forte crescita. Tutti noi troviamo   sconti personalizzati nella nostra casella di posta elettronica, facciamo domande a Siri o facciamo    affidamento sulla nostra banca per individuare e contenere potenziali attività fraudolente.Mentre noi     ci godiamo i frutti di chi opera nel campo della data science, altre persone lavorano assiduamente      dietro le quinte. Questi addetti sono incaricati di creare le pipeline di dati e i data warehouse       che consentono ai data scientist di scrivere e ottimizzare algoritmi per migliorare la nostra vita quotidiana.        Chi sono queste figure? Sono gli "ingegneri dei dati", o data engineer.
 END
 checksum 00000000000694846311
-cfs entry for: _z.inf
+cfs entry for: _14.inf
 number of fields 2
   name name
   number 0
@@ -126,7 +126,7 @@ number of fields 2
   vector similarity EUCLIDEAN
   soft-deletes false
 checksum 00000000001132502587
-cfs entry for: _z.len
+cfs entry for: _14.len
 field name
   type NUMERIC
   minvalue 1
@@ -153,31 +153,31 @@ T
 T
 field content
   type NUMERIC
-  minvalue 52
+  minvalue 38
   pattern 00
-12
-T
-06
+18
 T
 12
-T
-08
-T
-08
-T
-11
-T
-02
 T
 19
 T
+14
+T
+14
+T
+17
+T
+05
+T
+27
+T
 00
 T
-09
+14
 T
 END
-checksum 00000000000210020186
-cfs entry for: _z.pst
+checksum 00000000001132493317
+cfs entry for: _14.pst
 field content
   term 0
     doc 0
@@ -203,10 +203,6 @@ field content
     doc 9
       freq 1
       pos 31
-  term abbiamo
-    doc 5
-      freq 1
-      pos 141
   term abbreviato
     doc 4
       freq 1
@@ -227,11 +223,6 @@ field content
     doc 5
       freq 1
       pos 105
-  term ad
-    doc 7
-      freq 2
-      pos 48
-      pos 98
   term addetti
     doc 9
       freq 1
@@ -248,37 +239,6 @@ field content
     doc 0
       freq 1
       pos 99
-  term agli
-    doc 0
-      freq 1
-      pos 82
-    doc 8
-      freq 1
-      pos 38
-  term ai
-    doc 5
-      freq 3
-      pos 10
-      pos 25
-      pos 52
-    doc 9
-      freq 1
-      pos 110
-  term al
-    doc 2
-      freq 1
-      pos 153
-    doc 4
-      freq 1
-      pos 112
-    doc 6
-      freq 2
-      pos 31
-      pos 74
-    doc 7
-      freq 2
-      pos 95
-      pos 234
   term alcun
     doc 6
       freq 1
@@ -294,42 +254,6 @@ field content
     doc 9
       freq 1
       pos 117
-  term all
-    doc 1
-      freq 1
-      pos 72
-    doc 3
-      freq 1
-      pos 92
-    doc 8
-      freq 3
-      pos 23
-      pos 34
-      pos 41
-  term alla
-    doc 0
-      freq 2
-      pos 69
-      pos 112
-    doc 1
-      freq 1
-      pos 55
-    doc 7
-      freq 2
-      pos 62
-      pos 261
-    doc 8
-      freq 2
-      pos 25
-      pos 28
-  term alle
-    doc 1
-      freq 1
-      pos 21
-  term allo
-    doc 7
-      freq 1
-      pos 264
   term alto
     doc 2
       freq 1
@@ -375,17 +299,6 @@ field content
     doc 7
       freq 1
       pos 219
-  term anche
-    doc 0
-      freq 1
-      pos 127
-    doc 6
-      freq 1
-      pos 52
-    doc 7
-      freq 2
-      pos 4
-      pos 126
   term anni
     doc 0
       freq 1
@@ -703,60 +616,10 @@ field content
     doc 4
       freq 1
       pos 114
-  term che
-    doc 0
-      freq 3
-      pos 50
-      pos 134
-      pos 150
-    doc 2
-      freq 3
-      pos 23
-      pos 120
-      pos 150
-    doc 5
-      freq 6
-      pos 11
-      pos 17
-      pos 27
-      pos 42
-      pos 71
-      pos 75
-    doc 6
-      freq 2
-      pos 7
-      pos 68
-    doc 7
-      freq 2
-      pos 244
-      pos 269
-    doc 8
-      freq 1
-      pos 62
-    doc 9
-      freq 3
-      pos 9
-      pos 34
-      pos 108
-  term chi
-    doc 9
-      freq 2
-      pos 80
-      pos 124
   term chiave
     doc 6
       freq 1
       pos 1
-  term ci
-    doc 7
-      freq 1
-      pos 91
-    doc 8
-      freq 1
-      pos 59
-    doc 9
-      freq 1
-      pos 75
   term ciò
     doc 5
       freq 1
@@ -776,27 +639,6 @@ field content
     doc 3
       freq 1
       pos 1
-  term come
-    doc 0
-      freq 2
-      pos 67
-      pos 136
-    doc 1
-      freq 1
-      pos 86
-    doc 3
-      freq 1
-      pos 26
-    doc 4
-      freq 1
-      pos 109
-    doc 7
-      freq 5
-      pos 6
-      pos 37
-      pos 47
-      pos 97
-      pos 183
   term complessi
     doc 7
       freq 1
@@ -859,26 +701,6 @@ field content
     doc 0
       freq 1
       pos 68
-  term con
-    doc 1
-      freq 1
-      pos 69
-    doc 3
-      freq 2
-      pos 88
-      pos 121
-    doc 4
-      freq 2
-      pos 8
-      pos 52
-    doc 5
-      freq 1
-      pos 102
-    doc 6
-      freq 3
-      pos 10
-      pos 23
-      pos 41
   term concepito
     doc 7
       freq 1
@@ -992,59 +814,11 @@ field content
     doc 9
       freq 1
       pos 44
-  term cui
-    doc 0
-      freq 1
-      pos 116
   term cybersecurity
     doc 8
       freq 2
       pos 1
       pos 52
-  term da
-    doc 1
-      freq 1
-      pos 7
-    doc 3
-      freq 3
-      pos 15
-      pos 37
-      pos 82
-    doc 4
-      freq 1
-      pos 61
-  term dagli
-    doc 0
-      freq 1
-      pos 155
-    doc 8
-      freq 1
-      pos 14
-  term dai
-    doc 1
-      freq 1
-      pos 15
-    doc 4
-      freq 1
-      pos 86
-  term dal
-    doc 1
-      freq 1
-      pos 106
-    doc 3
-      freq 1
-      pos 63
-  term dall
-    doc 0
-      freq 1
-      pos 3
-  term dalla
-    doc 7
-      freq 1
-      pos 73
-    doc 9
-      freq 1
-      pos 14
   term data
     doc 1
       freq 5
@@ -1104,99 +878,6 @@ field content
     doc 2
       freq 1
       pos 47
-  term degli
-    doc 0
-      freq 1
-      pos 71
-  term dei
-    doc 0
-      freq 1
-      pos 33
-    doc 4
-      freq 1
-      pos 58
-    doc 8
-      freq 1
-      pos 43
-    doc 9
-      freq 3
-      pos 16
-      pos 37
-      pos 131
-  term del
-    doc 0
-      freq 1
-      pos 130
-    doc 1
-      freq 1
-      pos 102
-    doc 2
-      freq 2
-      pos 130
-      pos 134
-    doc 4
-      freq 1
-      pos 107
-    doc 6
-      freq 2
-      pos 2
-      pos 59
-    doc 7
-      freq 1
-      pos 76
-  term dell
-    doc 1
-      freq 1
-      pos 74
-    doc 2
-      freq 2
-      pos 12
-      pos 20
-    doc 3
-      freq 1
-      pos 95
-    doc 4
-      freq 1
-      pos 72
-    doc 5
-      freq 1
-      pos 7
-    doc 7
-      freq 3
-      pos 217
-      pos 266
-      pos 282
-  term della
-    doc 3
-      freq 1
-      pos 97
-    doc 4
-      freq 3
-      pos 55
-      pos 96
-      pos 119
-    doc 6
-      freq 1
-      pos 61
-    doc 7
-      freq 6
-      pos 44
-      pos 114
-      pos 191
-      pos 236
-      pos 274
-      pos 280
-    doc 9
-      freq 1
-      pos 84
-  term delle
-    doc 0
-      freq 2
-      pos 36
-      pos 132
-    doc 3
-      freq 1
-      pos 119
   term denaro
     doc 8
       freq 1
@@ -1213,116 +894,6 @@ field content
     doc 1
       freq 1
       pos 48
-  term di
-    doc 0
-      freq 8
-      pos 14
-      pos 19
-      pos 63
-      pos 84
-      pos 92
-      pos 98
-      pos 101
-      pos 114
-    doc 1
-      freq 4
-      pos 26
-      pos 31
-      pos 89
-      pos 108
-    doc 2
-      freq 11
-      pos 10
-      pos 29
-      pos 34
-      pos 36
-      pos 43
-      pos 50
-      pos 52
-      pos 64
-      pos 97
-      pos 108
-      pos 155
-    doc 3
-      freq 5
-      pos 8
-      pos 10
-      pos 40
-      pos 50
-      pos 85
-    doc 4
-      freq 9
-      pos 5
-      pos 11
-      pos 20
-      pos 31
-      pos 47
-      pos 63
-      pos 69
-      pos 76
-      pos 88
-    doc 5
-      freq 2
-      pos 14
-      pos 116
-    doc 6
-      freq 5
-      pos 17
-      pos 36
-      pos 56
-      pos 77
-      pos 80
-    doc 7
-      freq 16
-      pos 22
-      pos 32
-      pos 55
-      pos 64
-      pos 84
-      pos 117
-      pos 123
-      pos 137
-      pos 140
-      pos 151
-      pos 153
-      pos 172
-      pos 175
-      pos 196
-      pos 206
-      pos 215
-    doc 8
-      freq 5
-      pos 5
-      pos 30
-      pos 36
-      pos 49
-      pos 51
-    doc 9
-      freq 6
-      pos 25
-      pos 53
-      pos 79
-      pos 98
-      pos 102
-      pos 113
-    skipList 
-      level 0
-        skipDoc 7
-        skipDocFP 13262
-        impacts 
-          impact 
-            freq 5
-            norm 54
-          impact 
-            freq 9
-            norm 60
-          impact 
-            freq 11
-            norm 64
-          impact 
-            freq 16
-            norm 71
-        impactsEnd 
   term dietro
     doc 9
       freq 1
@@ -1427,96 +998,10 @@ field content
     doc 7
       freq 1
       pos 251
-  term dove
-    doc 2
-      freq 2
-      pos 40
-      pos 75
   term dunque
     doc 7
       freq 1
       pos 147
-  term e
-    doc 0
-      freq 5
-      pos 35
-      pos 54
-      pos 59
-      pos 74
-      pos 100
-    doc 1
-      freq 5
-      pos 29
-      pos 37
-      pos 47
-      pos 57
-      pos 61
-    doc 2
-      freq 3
-      pos 19
-      pos 116
-      pos 140
-    doc 3
-      freq 4
-      pos 44
-      pos 59
-      pos 74
-      pos 112
-    doc 4
-      freq 5
-      pos 34
-      pos 36
-      pos 49
-      pos 75
-      pos 93
-    doc 5
-      freq 6
-      pos 35
-      pos 51
-      pos 57
-      pos 126
-      pos 131
-      pos 139
-    doc 7
-      freq 11
-      pos 52
-      pos 60
-      pos 68
-      pos 102
-      pos 119
-      pos 143
-      pos 181
-      pos 220
-      pos 233
-      pos 263
-      pos 279
-    doc 8
-      freq 2
-      pos 11
-      pos 64
-    doc 9
-      freq 3
-      pos 68
-      pos 104
-      pos 115
-    skipList 
-      level 0
-        skipDoc 8
-        skipDocFP 16266
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 5
-            norm 58
-          impact 
-            freq 6
-            norm 63
-          impact 
-            freq 11
-            norm 71
-        impactsEnd 
   term ecc
     doc 7
       freq 1
@@ -1525,13 +1010,6 @@ field content
     doc 3
       freq 1
       pos 125
-  term ed
-    doc 3
-      freq 1
-      pos 124
-    doc 7
-      freq 1
-      pos 210
   term efficaci
     doc 8
       freq 1
@@ -1638,11 +1116,6 @@ field content
     doc 7
       freq 1
       pos 79
-  term facciamo
-    doc 9
-      freq 2
-      pos 56
-      pos 61
   term facile
     doc 5
       freq 1
@@ -1786,22 +1259,6 @@ field content
     doc 0
       freq 1
       pos 32
-  term gli
-    doc 3
-      freq 1
-      pos 70
-    doc 4
-      freq 1
-      pos 115
-    doc 5
-      freq 1
-      pos 114
-    doc 8
-      freq 1
-      pos 65
-    doc 9
-      freq 1
-      pos 129
   term godiamo
     doc 9
       freq 1
@@ -1845,20 +1302,10 @@ field content
     doc 4
       freq 1
       pos 60
-  term ha
-    doc 7
-      freq 3
-      pos 245
-      pos 259
-      pos 270
   term hacker
     doc 8
       freq 1
       pos 66
-  term hanno
-    doc 5
-      freq 1
-      pos 63
   term hardware
     doc 4
       freq 2
@@ -1868,86 +1315,6 @@ field content
     doc 4
       freq 1
       pos 92
-  term i
-    doc 0
-      freq 3
-      pos 61
-      pos 106
-      pos 151
-    doc 1
-      freq 2
-      pos 0
-      pos 43
-    doc 2
-      freq 2
-      pos 41
-      pos 79
-    doc 4
-      freq 1
-      pos 53
-    doc 5
-      freq 2
-      pos 47
-      pos 109
-    doc 6
-      freq 2
-      pos 11
-      pos 66
-    doc 7
-      freq 2
-      pos 156
-      pos 164
-    doc 8
-      freq 2
-      pos 7
-      pos 12
-    doc 9
-      freq 3
-      pos 22
-      pos 77
-      pos 105
-    skipList 
-      level 0
-        skipDoc 8
-        skipDocFP 21948
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 3
-            norm 64
-        impactsEnd 
-  term il
-    doc 0
-      freq 1
-      pos 142
-    doc 1
-      freq 2
-      pos 63
-      pos 80
-    doc 3
-      freq 2
-      pos 0
-      pos 127
-    doc 5
-      freq 5
-      pos 0
-      pos 77
-      pos 90
-      pos 94
-      pos 128
-    doc 6
-      freq 2
-      pos 38
-      pos 42
-    doc 7
-      freq 5
-      pos 50
-      pos 110
-      pos 130
-      pos 133
-      pos 240
   term imitano
     doc 5
       freq 1
@@ -2147,89 +1514,6 @@ field content
     doc 7
       freq 1
       pos 3
-  term l
-    doc 1
-      freq 1
-      pos 10
-    doc 2
-      freq 2
-      pos 0
-      pos 85
-    doc 3
-      freq 4
-      pos 27
-      pos 29
-      pos 67
-      pos 100
-    doc 4
-      freq 1
-      pos 9
-    doc 5
-      freq 2
-      pos 44
-      pos 84
-    doc 7
-      freq 2
-      pos 193
-      pos 272
-    doc 8
-      freq 1
-      pos 47
-  term la
-    doc 0
-      freq 2
-      pos 31
-      pos 52
-    doc 2
-      freq 1
-      pos 106
-    doc 3
-      freq 3
-      pos 23
-      pos 32
-      pos 103
-    doc 4
-      freq 3
-      pos 0
-      pos 14
-      pos 79
-    doc 5
-      freq 2
-      pos 121
-      pos 132
-    doc 6
-      freq 1
-      pos 53
-    doc 7
-      freq 5
-      pos 53
-      pos 58
-      pos 120
-      pos 252
-      pos 256
-    doc 8
-      freq 2
-      pos 0
-      pos 3
-    doc 9
-      freq 2
-      pos 35
-      pos 120
-    skipList 
-      level 0
-        skipDoc 8
-        skipDocFP 25989
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 3
-            norm 60
-          impact 
-            freq 5
-            norm 71
-        impactsEnd 
   term lasciando
     doc 3
       freq 1
@@ -2246,54 +1530,6 @@ field content
     doc 1
       freq 1
       pos 32
-  term le
-    doc 1
-      freq 2
-      pos 93
-      pos 100
-    doc 2
-      freq 3
-      pos 95
-      pos 102
-      pos 112
-    doc 3
-      freq 1
-      pos 53
-    doc 5
-      freq 3
-      pos 21
-      pos 103
-      pos 146
-    doc 6
-      freq 2
-      pos 20
-      pos 24
-    doc 7
-      freq 2
-      pos 86
-      pos 248
-    doc 8
-      freq 1
-      pos 9
-    doc 9
-      freq 2
-      pos 92
-      pos 100
-    skipList 
-      level 0
-        skipDoc 9
-        skipDocFP 26972
-        impacts 
-          impact 
-            freq 1
-            norm 52
-          impact 
-            freq 2
-            norm 54
-          impact 
-            freq 3
-            norm 63
-        impactsEnd 
   term learning
     doc 2
       freq 2
@@ -2328,38 +1564,14 @@ field content
     doc 2
       freq 1
       pos 45
-  term lo
-    doc 5
-      freq 1
-      pos 64
   term logaritmi
     doc 6
       freq 1
       pos 27
-  term loro
-    doc 0
-      freq 1
-      pos 143
-    doc 5
-      freq 1
-      pos 147
   term lustro
     doc 2
       freq 1
       pos 152
-  term ma
-    doc 3
-      freq 1
-      pos 69
-    doc 5
-      freq 1
-      pos 61
-    doc 6
-      freq 1
-      pos 22
-    doc 9
-      freq 1
-      pos 28
   term macchina
     doc 6
       freq 1
@@ -2566,75 +1778,6 @@ field content
     doc 2
       freq 1
       pos 136
-  term ne
-    doc 9
-      freq 1
-      pos 29
-  term nei
-    doc 4
-      freq 3
-      pos 25
-      pos 27
-      pos 29
-    doc 7
-      freq 1
-      pos 204
-  term nel
-    doc 0
-      freq 2
-      pos 23
-      pos 78
-    doc 1
-      freq 2
-      pos 77
-      pos 97
-    doc 2
-      freq 2
-      pos 127
-      pos 137
-    doc 4
-      freq 2
-      pos 84
-      pos 105
-    doc 6
-      freq 1
-      pos 29
-    doc 7
-      freq 1
-      pos 189
-    doc 9
-      freq 2
-      pos 0
-      pos 82
-  term nell
-    doc 2
-      freq 1
-      pos 132
-    doc 3
-      freq 1
-      pos 116
-    doc 5
-      freq 1
-      pos 81
-  term nella
-    doc 2
-      freq 2
-      pos 124
-      pos 141
-    doc 4
-      freq 1
-      pos 22
-    doc 9
-      freq 1
-      pos 50
-  term nelle
-    doc 7
-      freq 1
-      pos 213
-  term nello
-    doc 3
-      freq 1
-      pos 109
   term nepero
     doc 6
       freq 1
@@ -2666,36 +1809,6 @@ field content
       pos 104
       pos 110
       pos 118
-  term noi
-    doc 5
-      freq 1
-      pos 140
-    doc 9
-      freq 2
-      pos 46
-      pos 74
-  term non
-    doc 3
-      freq 1
-      pos 55
-    doc 4
-      freq 1
-      pos 117
-    doc 5
-      freq 2
-      pos 62
-      pos 87
-    doc 6
-      freq 2
-      pos 8
-      pos 70
-    doc 7
-      freq 1
-      pos 144
-    doc 9
-      freq 2
-      pos 10
-      pos 20
   term nonché
     doc 8
       freq 1
@@ -2704,15 +1817,6 @@ field content
     doc 8
       freq 1
       pos 44
-  term nostra
-    doc 5
-      freq 1
-      pos 122
-    doc 9
-      freq 3
-      pos 51
-      pos 64
-      pos 121
   term noto
     doc 7
       freq 1
@@ -2721,59 +1825,6 @@ field content
     doc 0
       freq 1
       pos 73
-  term o
-    doc 0
-      freq 6
-      pos 8
-      pos 17
-      pos 43
-      pos 124
-      pos 126
-      pos 140
-    doc 1
-      freq 1
-      pos 76
-    doc 2
-      freq 1
-      pos 38
-    doc 3
-      freq 1
-      pos 31
-    doc 4
-      freq 1
-      pos 103
-    doc 5
-      freq 3
-      pos 19
-      pos 40
-      pos 107
-    doc 7
-      freq 2
-      pos 9
-      pos 13
-    doc 8
-      freq 2
-      pos 27
-      pos 40
-    doc 9
-      freq 2
-      pos 60
-      pos 133
-    skipList 
-      level 0
-        skipDoc 8
-        skipDocFP 33065
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 3
-            norm 63
-          impact 
-            freq 6
-            norm 64
-        impactsEnd 
   term occupa
     doc 4
       freq 1
@@ -2814,6 +1865,10 @@ field content
     doc 2
       freq 1
       pos 76
+  term on
+    doc 1
+      freq 1
+      pos 19
   term onere
     doc 3
       freq 1
@@ -2903,38 +1958,6 @@ field content
     doc 9
       freq 1
       pos 5
-  term per
-    doc 0
-      freq 3
-      pos 30
-      pos 56
-      pos 119
-    doc 2
-      freq 2
-      pos 57
-      pos 81
-    doc 3
-      freq 2
-      pos 66
-      pos 126
-    doc 5
-      freq 1
-      pos 119
-    doc 6
-      freq 1
-      pos 19
-    doc 7
-      freq 1
-      pos 40
-    doc 9
-      freq 3
-      pos 32
-      pos 66
-      pos 118
-  term perché
-    doc 8
-      freq 1
-      pos 58
   term performance
     doc 5
       freq 1
@@ -2986,24 +2009,6 @@ field content
     doc 9
       freq 1
       pos 101
-  term più
-    doc 1
-      freq 3
-      pos 34
-      pos 52
-      pos 70
-    doc 2
-      freq 1
-      pos 92
-    doc 7
-      freq 4
-      pos 10
-      pos 89
-      pos 135
-      pos 165
-    doc 8
-      freq 1
-      pos 70
   term piùdispositivi
     doc 8
       freq 1
@@ -3148,11 +2153,6 @@ field content
     doc 1
       freq 1
       pos 83
-  term quale
-    doc 6
-      freq 2
-      pos 43
-      pos 62
   term quando
     doc 1
       freq 1
@@ -3171,47 +2171,6 @@ field content
     doc 2
       freq 1
       pos 8
-  term quelle
-    doc 0
-      freq 1
-      pos 121
-  term quelli
-    doc 1
-      freq 1
-      pos 8
-    doc 2
-      freq 1
-      pos 51
-  term quello
-    doc 0
-      freq 1
-      pos 104
-    doc 2
-      freq 1
-      pos 82
-  term questa
-    doc 7
-      freq 2
-      pos 197
-      pos 231
-    doc 9
-      freq 1
-      pos 26
-  term queste
-    doc 9
-      freq 1
-      pos 126
-  term questi
-    doc 8
-      freq 1
-      pos 17
-    doc 9
-      freq 1
-      pos 94
-  term questo
-    doc 0
-      freq 1
-      pos 64
   term quinte
     doc 9
       freq 1
@@ -3433,10 +2392,6 @@ field content
     doc 9
       freq 1
       pos 114
-  term se
-    doc 7
-      freq 1
-      pos 127
   term sebbene
     doc 5
       freq 1
@@ -3514,47 +2469,6 @@ field content
     doc 7
       freq 1
       pos 182
-  term si
-    doc 1
-      freq 2
-      pos 12
-      pos 45
-    doc 2
-      freq 3
-      pos 24
-      pos 60
-      pos 100
-    doc 4
-      freq 2
-      pos 3
-      pos 67
-    doc 5
-      freq 3
-      pos 12
-      pos 36
-      pos 135
-    doc 6
-      freq 1
-      pos 44
-    doc 7
-      freq 2
-      pos 92
-      pos 199
-  term sia
-    doc 7
-      freq 5
-      pos 24
-      pos 29
-      pos 203
-      pos 212
-      pos 222
-    doc 9
-      freq 1
-      pos 11
-  term siano
-    doc 7
-      freq 1
-      pos 162
   term sicura
     doc 5
       freq 1
@@ -3646,50 +2560,6 @@ field content
     doc 7
       freq 1
       pos 63
-  term sono
-    doc 0
-      freq 3
-      pos 108
-      pos 117
-      pos 153
-    doc 1
-      freq 2
-      pos 4
-      pos 95
-    doc 2
-      freq 2
-      pos 46
-      pos 121
-    doc 3
-      freq 1
-      pos 71
-    doc 4
-      freq 1
-      pos 122
-    doc 6
-      freq 1
-      pos 63
-    doc 8
-      freq 2
-      pos 20
-      pos 60
-    doc 9
-      freq 3
-      pos 96
-      pos 125
-      pos 128
-    skipList 
-      level 0
-        skipDoc 9
-        skipDocFP 45038
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 3
-            norm 61
-        impactsEnd 
   term sotto
     doc 3
       freq 1
@@ -3724,13 +2594,6 @@ field content
     doc 1
       freq 1
       pos 14
-  term stanno
-    doc 5
-      freq 1
-      pos 136
-    doc 8
-      freq 1
-      pos 67
   term stata
     doc 4
       freq 2
@@ -3771,22 +2634,6 @@ field content
     doc 6
       freq 1
       pos 16
-  term su
-    doc 1
-      freq 2
-      pos 33
-      pos 51
-    doc 2
-      freq 2
-      pos 26
-      pos 67
-    doc 3
-      freq 1
-      pos 13
-  term sua
-    doc 7
-      freq 1
-      pos 257
   term successivo
     doc 0
       freq 1
@@ -3797,24 +2644,6 @@ field content
     doc 6
       freq 1
       pos 75
-  term sui
-    doc 6
-      freq 1
-      pos 26
-  term sulla
-    doc 0
-      freq 1
-      pos 47
-    doc 2
-      freq 1
-      pos 48
-    doc 9
-      freq 1
-      pos 63
-  term suoi
-    doc 6
-      freq 1
-      pos 12
   term supportare
     doc 1
       freq 1
@@ -3918,10 +2747,6 @@ field content
     doc 7
       freq 1
       pos 152
-  term tra
-    doc 2
-      freq 1
-      pos 94
   term tradizionali
     doc 1
       freq 1
@@ -3954,14 +2779,6 @@ field content
     doc 7
       freq 1
       pos 129
-  term tutti
-    doc 9
-      freq 1
-      pos 45
-  term tutto
-    doc 5
-      freq 1
-      pos 73
   term umana
     doc 5
       freq 1
@@ -3973,73 +2790,6 @@ field content
     doc 7
       freq 1
       pos 250
-  term un
-    doc 0
-      freq 4
-      pos 0
-      pos 27
-      pos 86
-      pos 95
-    doc 1
-      freq 2
-      pos 39
-      pos 87
-    doc 2
-      freq 2
-      pos 62
-      pos 146
-    doc 3
-      freq 5
-      pos 6
-      pos 16
-      pos 19
-      pos 38
-      pos 83
-    doc 4
-      freq 1
-      pos 70
-    doc 5
-      freq 3
-      pos 5
-      pos 32
-      pos 67
-    doc 7
-      freq 2
-      pos 0
-      pos 99
-    doc 9
-      freq 2
-      pos 7
-      pos 40
-    skipList 
-      level 0
-        skipDoc 9
-        skipDocFP 49282
-        impacts 
-          impact 
-            freq 2
-            norm 58
-          impact 
-            freq 5
-            norm 60
-        impactsEnd 
-  term una
-    doc 0
-      freq 1
-      pos 90
-    doc 4
-      freq 2
-      pos 18
-      pos 44
-    doc 7
-      freq 3
-      pos 16
-      pos 38
-      pos 148
-  term uno
-    doc 6
-      freq 1
-      pos 15
   term usano
     doc 1
       freq 1
@@ -4179,57 +2929,6 @@ field content
     doc 7
       freq 1
       pos 77
-  term è
-    doc 0
-      freq 2
-      pos 22
-      pos 145
-    doc 1
-      freq 1
-      pos 13
-    doc 2
-      freq 2
-      pos 7
-      pos 145
-    doc 4
-      freq 4
-      pos 17
-      pos 41
-      pos 81
-      pos 98
-    doc 5
-      freq 4
-      pos 4
-      pos 31
-      pos 70
-      pos 97
-    doc 6
-      freq 1
-      pos 5
-    doc 7
-      freq 2
-      pos 15
-      pos 200
-    doc 8
-      freq 2
-      pos 2
-      pos 54
-    doc 9
-      freq 2
-      pos 3
-      pos 39
-    skipList 
-      level 0
-        skipDoc 8
-        skipDocFP 51925
-        impacts 
-          impact 
-            freq 2
-            norm 52
-          impact 
-            freq 4
-            norm 60
-        impactsEnd 
 field name
   term center
     doc 1
@@ -4309,18 +3008,18 @@ field name
       freq 1
       pos 0
 END
-checksum 00000000004229190736
+checksum 00000000003392349862
 table of contents, size: 4
-  filename: _z.fld
-    start: 22
-    end: 11169
-  filename: _z.inf
-    start: 11191
-    end: 11967
-  filename: _z.len
-    start: 11989
-    end: 12220
-  filename: _z.pst
-    start: 12242
-    end: 65846
-table of contents begins at offset: 0000000000000065846
+  filename: _14.fld
+    start: 23
+    end: 11170
+  filename: _14.inf
+    start: 11193
+    end: 11969
+  filename: _14.len
+    start: 11992
+    end: 12223
+  filename: _14.pst
+    start: 12246
+    end: 49000
+table of contents begins at offset: 0000000000000049000
