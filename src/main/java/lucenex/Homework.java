@@ -9,6 +9,7 @@ import org.apache.lucene.analysis.custom.CustomAnalyzer;
 import org.apache.lucene.analysis.it.ItalianAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
 import org.apache.lucene.analysis.miscellaneous.WordDelimiterGraphFilterFactory;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.codecs.Codec;
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
@@ -36,11 +37,12 @@ public class Homework {
         //vengono definiti gli analyzers per l'indice name e l'indice content
         Map<String, Analyzer> perFieldAnalyzers = new HashMap<>();
         //analyzer per il campo name del documento
-        CharArraySet stopWords = new CharArraySet(Arrays.asList(" ", "_", "L'", "del", "in", "dei", "di"), true);
+//        CharArraySet stopWords =  new CharArraySet(Arrays.asList(" ", "_", "L'", "del", "in", "dei", "di"), true);
         Analyzer analyzer_name = CustomAnalyzer.builder()
                 .withTokenizer(WhitespaceTokenizerFactory.class)
                 .addTokenFilter(LowerCaseFilterFactory.class)
                 .addTokenFilter(WordDelimiterGraphFilterFactory.class)
+//                .addTokenFilter()
                 .build();
         perFieldAnalyzers.put("name", analyzer_name);
         //analyzer per il campo content del documento

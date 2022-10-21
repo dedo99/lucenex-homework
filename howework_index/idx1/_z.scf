@@ -1,4 +1,4 @@
-cfs entry for: _v.fld
+cfs entry for: _z.fld
 doc 0
   field 0
     name name
@@ -91,7 +91,7 @@ doc 9
     value Nel mondo moderno, è difficile pensare a un settore che non sia stato rivoluzionato dalla scienza dei dati. Molti magari non capiscono i dettagli intricati di questa disciplina, ma ne sanno  abbastanza per capire che la scienza dei dati è un campo in forte crescita. Tutti noi troviamo   sconti personalizzati nella nostra casella di posta elettronica, facciamo domande a Siri o facciamo    affidamento sulla nostra banca per individuare e contenere potenziali attività fraudolente.Mentre noi     ci godiamo i frutti di chi opera nel campo della data science, altre persone lavorano assiduamente      dietro le quinte. Questi addetti sono incaricati di creare le pipeline di dati e i data warehouse       che consentono ai data scientist di scrivere e ottimizzare algoritmi per migliorare la nostra vita quotidiana.        Chi sono queste figure? Sono gli "ingegneri dei dati", o data engineer.
 END
 checksum 00000000000694846311
-cfs entry for: _v.inf
+cfs entry for: _z.inf
 number of fields 2
   name name
   number 0
@@ -126,7 +126,7 @@ number of fields 2
   vector similarity EUCLIDEAN
   soft-deletes false
 checksum 00000000001132502587
-cfs entry for: _v.len
+cfs entry for: _z.len
 field name
   type NUMERIC
   minvalue 1
@@ -177,7 +177,7 @@ T
 T
 END
 checksum 00000000000210020186
-cfs entry for: _v.pst
+cfs entry for: _z.pst
 field content
   term 0
     doc 0
@@ -4311,16 +4311,16 @@ field name
 END
 checksum 00000000004229190736
 table of contents, size: 4
-  filename: _v.fld
+  filename: _z.fld
     start: 22
     end: 11169
-  filename: _v.inf
+  filename: _z.inf
     start: 11191
     end: 11967
-  filename: _v.len
+  filename: _z.len
     start: 11989
     end: 12220
-  filename: _v.pst
+  filename: _z.pst
     start: 12242
     end: 65846
 table of contents begins at offset: 0000000000000065846
