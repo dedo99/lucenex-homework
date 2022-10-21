@@ -3,14 +3,6 @@
     number of documents 10
     uses compound file true
     diagnostics 8
-      key timestamp
-      value 1666379300022
-      key java.runtime.version
-      value 11.0.16.1+9-LTS
-      key java.vendor
-      value Amazon.com Inc.
-      key os
-      value Windows 10
       key os.arch
       value amd64
       key os.version
@@ -19,10 +11,18 @@
       value 9.4.0
       key source
       value flush
+      key timestamp
+      value 1666381433933
+      key java.runtime.version
+      value 11.0.16.1+9-LTS
+      key java.vendor
+      value Amazon.com Inc.
+      key os
+      value Windows 10
     attributes 0
     files 2
-      file _14.si
-      file _14.scf
-    id Žþ'Ö¼ŸÒ·f´>op–*
+      file _15.scf
+      file _15.si
+    id u»yqïÊúc'Ž:<Î…+-
     sort 0
-checksum 00000000002619992565
+checksum 00000000002427741832
