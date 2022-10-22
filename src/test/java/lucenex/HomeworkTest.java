@@ -151,7 +151,7 @@ public class HomeworkTest {
 
     //Finish test
 
-    
+
     //Auxiliary Function Here
 
     public IndexSearcher setting_path_query() throws IOException {
