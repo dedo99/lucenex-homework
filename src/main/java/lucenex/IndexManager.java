@@ -95,7 +95,7 @@ public class IndexManager {
         // ottiene la differenza tra i due valori di tempo
         long timeElapsed = endTime - startTime;
         //stampe
-        System.out.println("Numero documenti indicizati: " + map_documents.size());
+        System.out.println("Number of documents indexed: " + map_documents.size());
         System.out.println("Execution time in milliseconds: " + timeElapsed / 1000000);
     }
 
@@ -109,6 +109,6 @@ public class IndexManager {
         }
         outputWriter.flush();
         outputWriter.close();
-        System.out.println("File: " + filename + " created.");
+        System.out.println("File " + filename + " created.");
     }
 }
