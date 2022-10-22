@@ -56,7 +56,7 @@ public class HomeworkTest {
     public void view_documents_with_phrasequery_in_name() throws IOException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "proteggere i sistemi" in content
+        //retrieve documents contain the phrase "storia del computer" in name
         PhraseQuery phraseQuery = new PhraseQuery.Builder()
                 .add(new Term("name", "storia"))
                 .add(new Term("name", "del"))
@@ -70,7 +70,7 @@ public class HomeworkTest {
     public void view_documents_with_No_phrasequery_in_name() throws IOException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "proteggere i sistemi" in content
+        //retrieve documents contain the phrase "storia della cybersecurity" in name (No Match)
         PhraseQuery phraseQuery = new PhraseQuery.Builder()
                 .add(new Term("name", "storia"))
                 .add(new Term("name", "della"))
@@ -84,7 +84,7 @@ public class HomeworkTest {
     public void view_documents_with_phrasequery_in_content() throws IOException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "proteggere i sistemi" in content
+        //retrieve documents contain the phrase "proteggere i sistemi" in content
         PhraseQuery phraseQuery = new PhraseQuery.Builder()
                 .add(new Term("content", "proteggere"))
                 .add(new Term("content", "i"))
@@ -98,7 +98,7 @@ public class HomeworkTest {
     public void view_documents_with_queryparser_in_name() throws IOException, ParseException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "computer della storia" in name
+        //retrieve documents contain the words "computer della storia" in name dove "computer" e "storia" sono obbligatorie
         QueryParser queryParser = new QueryParser("name", new WhitespaceAnalyzer());
         Query query = queryParser.parse("+computer della +storia");
         //perform the query
@@ -109,7 +109,7 @@ public class HomeworkTest {
     public void view_documents_with_queryparser_in_name_withoutWordMatch() throws IOException, ParseException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "computer della storia" in name
+        //retrieve documents contain the words "progetto" in name
         QueryParser queryParser = new QueryParser("name", new WhitespaceAnalyzer());
         Query query = queryParser.parse("progetto");
         //perform the query
@@ -120,7 +120,7 @@ public class HomeworkTest {
     public void view_documents_phrasequery_with_queryparser_in_name() throws IOException, ParseException {
         //setting directory and searcher
         IndexSearcher searcher = setting_path_query();
-        //retrieve documents contain the words "computer della storia" in name
+        //retrieve documents contain the phrase "prassi da proteggere" in content
         QueryParser queryParser = new QueryParser("content", new WhitespaceAnalyzer());
         Query query = queryParser.parse("\"prassi di proteggere\"");
         //perform the query
@@ -151,6 +151,7 @@ public class HomeworkTest {
 
     //Finish test
 
+    
     //Auxiliary Function Here
 
     public IndexSearcher setting_path_query() throws IOException {
